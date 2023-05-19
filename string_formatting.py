@@ -21,4 +21,4 @@ print('float with limited decimals (3) %.3f' % 10.50)
 
 data = ("John", "Doe", 53.44)
 
-print("Hello %s %s. Your current balance is $%f." % data)
+print("Hello %s %s. Your current balance is $%.2f." % data)
