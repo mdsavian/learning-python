@@ -65,6 +65,6 @@ print(names)
 newNames = [x for x in names if "e" in x]
 print(newNames)
 
-# create 2d arrays
+# create 2d list
 arr = [[0] * 4 for i in range(4)]
 print(arr)
